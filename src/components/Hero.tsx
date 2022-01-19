@@ -51,8 +51,8 @@ export default function Album() {
             >
               I&#8217;m a cross-disciplinary Frontend Developer focusing
               primarily on React applications and I&#8217;m also able to design
-              amazing looking UIs, and deploy accessible and performant code to
-              provide overall solutions to a variety of areas within user
+              amazing looking UIs, and deploy accessible and highly performant
+              code to provide solutions to various areas of the overall user
               experience.
             </Typography>
             <Typography
