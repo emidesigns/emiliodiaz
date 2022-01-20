@@ -2,7 +2,7 @@
   "name": "create-react-app-with-typescript",
   "version": "5.0.0",
   "private": true,
-  "homepage" : "https://www.emilio.diaz.ca",
+  "homepage" : "https://www.emiliodiaz.ca",
   "dependencies": {
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
