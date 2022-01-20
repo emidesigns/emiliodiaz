@@ -5,7 +5,6 @@ import Typography from "@mui/material/Typography";
 import Container from "@mui/material/Container";
 import Link from "@mui/material/Link";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
-import Alert from "@mui/material/Alert";
 
 function Copyright() {
   return (
@@ -24,7 +23,6 @@ export default function Album() {
     <>
       <CssBaseline />
       <main>
-        <Alert severity="info">This is WIP, more to come soon 👍.</Alert>
         {/* Hero unit */}
         <Box
           sx={{
