@@ -1,4 +1,4 @@
-name: learn-github-actions
+name: deploy to gh pages
 on: [push]
 jobs:
   build-and-deploy:
